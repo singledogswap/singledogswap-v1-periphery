@@ -1,6 +1,6 @@
 {
   "name": "singledogswap-peripheral",
-  "version": "1.0.0-beta.0",
+  "version": "1.0.0",
   "description": "🎚 Peripheral smart contracts for interacting with singledog",
   "engines": {
     "node": ">=10"
